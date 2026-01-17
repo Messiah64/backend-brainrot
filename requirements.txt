@@ -1,0 +1,8 @@
+PyPDF2>=3.0.0
+openai>=1.0.0
+elevenlabs>=1.0.0
+moviepy>=1.0.3
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-multipart>=0.0.6
+Pillow>=10.0.0
