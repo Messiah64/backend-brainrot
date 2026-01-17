@@ -1,4 +1,4 @@
-# 🧠💀 Backend Brainrot
+# 🧠💀 Skibidi-fication 3000
 
 > **Turn boring PDFs into viral brainrot education. No cap.**
 
